@@ -6,6 +6,9 @@ Do not download the raw repository files. Instead, look at the **Releases** sect
 This game is not currently available for console or mobile users. When support for console and mobile is added, you will download Rotaze from your device's game/app store rather than from this Github page.\
 Speaking of unsupported platforms, Rotaze currently does not have support for Mac or Linux. When support for Mac and Linux is added, there will be seperate files in each Release for Mac and Linux.
 
+## Migration Notice
+There are plans to migrate Rotaze to [itch.io](https://www.itch.io/). It is uncertain if I will follow through with this, however if I do, this repository will be kept open for the wiki, bug tracking, and for archival reasons.
+
 ## System Requirements
 **CPU**: Any standard dual-core Intel/AMD processor released after 2005\`*
 
